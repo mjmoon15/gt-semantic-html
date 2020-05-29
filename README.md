@@ -1,6 +1,6 @@
 # Semantic Accessibility
 
-![badmath] https://img.shields.io/github/release-date/mjmoon15/gt-semantic-html
+![badmath](https://img.shields.io/github/last-commit/mjmoon15/gt-semantic-html)
 
 ## Table of Contents (Optional)
 
